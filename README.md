@@ -202,57 +202,7 @@ Snapdragon 8 Gen 3, 6000mAh battery with 90W fast charging.
 
 ## 4. 📱 𝔸ℙℙ𝕊 – ℝ𝔼ℂ𝕆𝕄𝕄𝔼ℕ𝔻𝔼𝔻
 
-> *My personal toolkit – apps I actually use and recommend*
-
-<details>
-<summary><b>📋 Termux – The Android Powerhouse</b></summary>
-<br>
-The most important app for developers on Android. Brings a full Linux environment with packages like Python, Node.js, Git, vim, and more. Works great on my Poco X7 Pro.
-</details>
-
-<details>
-<summary><b>📋 Obsidian – Your Second Brain</b></summary>
-<br>
-An excellent tool for managing notes, ideas, and knowledge. Built on Markdown files, simple sync, and can be connected to your code.
-</details>
-
-<details>
-<summary><b>📋 NewPipe – Ad-Free YouTube</b></summary>
-<br>
-Watch YouTube without ads, including video downloads and background playback. Open-source and secure.
-</details>
-
-<details>
-<summary><b>📋 Syncthing – Decentralized File Sync</b></summary>
-<br>
-Syncs files between devices without a third-party server. A great alternative to Google Drive / Dropbox for privacy-conscious users.
-</details>
-
-<details>
-<summary><b>📋 VLC – The Ultimate Media Player</b></summary>
-<br>
-The media player that runs on everything. Plays any format, lightweight, open-source, and completely free.
-</details>
-
-<details>
-<summary><b>📋 Ghost Commander – Dual-Pane File Manager</b></summary>
-<br>
-A powerful dual-pane file manager with root access support, FTP, and SMB connections.
-</details>
-
-<details>
-<summary><b>📋 Aegis – 2FA Authenticator</b></summary>
-<br>
-A secure, open-source two-factor authentication app. A great alternative to Google Authenticator.
-</details>
-
----
-
-### 📦 Where to Find More
-
-- **F-Droid** – Open-source app store
-- **GitHub** – Search by topics
-- **Awesome Lists** – Curated collections of recommended tools
+> תחפשו בכוכבים שלי (Stars) – יש שם 467 אפליקציות שמורות מומלצות לייק ליוצרים. מאגר שלם של 1204 כלים, אפליקציות, תוכנות ועוד. תסתכלו בזמנכם החופשי.
 
 ---
 
