@@ -202,7 +202,7 @@ Snapdragon 8 Gen 3, 6000mAh battery with 90W fast charging.
 
 ## 4. 📱 𝔸ℙℙ𝕊 – ℝ𝔼ℂ𝕆𝕄𝕄𝔼ℕ𝔻𝔼𝔻
 
-> תחפשו בכוכבים שלי (Stars) – יש שם 467 אפליקציות שמורות מומלצות לייק ליוצרים. מאגר שלם של 1204 כלים, אפליקציות, תוכנות ועוד. תסתכלו בזמנכם החופשי.
+> Check out my GitHub Stars – there are **467 saved apps** recommended for creators, plus a full collection of **1,204 tools**, apps, software, and more. Take a look in your free time.
 
 ---
 
