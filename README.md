@@ -24,8 +24,8 @@
 
 ---
   
-**𓂀My Personal Picks – No corporate sponsors, no hidden agendas.**         
-           ***🅧-❻ ❶ ❻***
+**My Personal Picks – No corporate sponsors, no hidden agendas.**         
+           ***𓂀🅧-❻ ❶ ❻𓂀***
 
 > 💬 *"If you're looking for recommendations without mediation fees – you've found the right place. I don't get paid by any company to promote these. Just pure, honest opinions."*
 
