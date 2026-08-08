@@ -29,11 +29,10 @@
 > 💬 *"If you're looking for recommendations without mediation fees – you've found the right place. I don't get paid by any company to promote these. Just pure, honest opinions."*
 
 ---
-
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/X-616/X-616-recommendations/main/--23-26-03-074_me.proton.android.lumo-edit.jpg" alt="X-616 - THE SOURCE" width="70%" />
+  <img src="https://raw.githubusercontent.com/X-616/X-616-recommendations/main/Screenshot_2026-08-08-23-26-03-074_me.proton.android.lumo-edit.jpg" alt="X-616 - THE SOURCE" width="70%" />
 </p>
 
 <hr>
