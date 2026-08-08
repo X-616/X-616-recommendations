@@ -27,7 +27,7 @@
 ---
 
 ## 🧭 Quick Navigation
-[🎬 Movies](#-1-movies) • [🥤 Drinks](#-2-soft-drinks) • [📱 Devices](#-3-mobile-devices) • [🎮 Games](#-4-games)
+[🎬 Movies](#-1-movies) • [🥤 Soft Drinks](#-2-soft-drinks) • [📱 Mobile Devices](#-3-mobile-devices) • [🎮 Games](#-4-games-sony--xbox--pc)
 
 ---
 
