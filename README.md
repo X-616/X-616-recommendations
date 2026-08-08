@@ -2,7 +2,7 @@
 🄿🄷🄴🄽🄾🄼🄴🄽🄾🄽 ***⚚ ⚚ ⚚***
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=850&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=%E2%9A%A0%EF%B8%8F+RECOMMENDATIONS+DIRECTORY+%E2%9A%A0%EF%B8%8F;NO+AFFILIATE+FEES+%E2%80%A2+ZERO+COMMISSIONS;PURE+CONSUMER+HONESTY+%E2%9D%A4%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=1000&lines=%E2%9A%A0%EF%B8%8F+RECOMMENDATIONS+DIRECTORY+%E2%9A%A0%EF%B8%8F;NO+AFFILIATE+FEES+%E2%80%A2+ZERO+COMMISSIONS;PURE+CONSUMER+HONESTY+%E2%9D%A4%EF%B8%8F" />
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
 > 💬 *"If you're looking for recommendations without mediation fees – you've found the right place. I don't get paid by any company to promote these. Just pure, honest opinions."*
 
 ---
+
 <hr>
 
 <p align="center">
@@ -36,7 +37,6 @@
 </p>
 
 <hr>
-
 
 ## 🧭 Quick Navigation
 [🎬 Movies](#-1-movies) • [📺 TV Series](#-2-tv-series) • [🥤 Soft Drinks](#-3-soft-drinks) • [📱 Mobile Devices](#-4-mobile-devices) • [📱 Apps](#-5-apps--recommended) • [🎮 Games](#-6-games-sony--xbox--pc)
