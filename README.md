@@ -33,7 +33,7 @@
 <hr>
 
 <p align="center">
-  <img src="1000021484.jpg" alt="X-616 - THE SOURCE" width="70%" />
+  <img src="https://raw.githubusercontent.com/X-616/X-616-recommendations/main/--23-26-03-074_me.proton.android.lumo-edit.jpg" alt="X-616 - THE SOURCE" width="70%" />
 </p>
 
 <hr>
