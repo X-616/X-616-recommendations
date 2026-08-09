@@ -476,7 +476,35 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 
 - ✅ **Current Version:** 2026 Refresh (All entries in English)
 - 🔄 **Update Frequency:** Rolling – new discoveries added continuously
-- 📌 **Coming Soon:** Horror movie section • Indie game highlights • Retro classics • More app recommendations
+- 📌 **Coming Soon:** Horror movie section • Indie game highlights • Retro classics • More app recommendations.
+
+## ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ: x1 ɪɴᴛᴇʀꜰᴀᴄᴇ ꜰᴏʀ ᴛᴇʀᴍᴜx
+
+ᴀ ꜱʟᴇᴇᴋ ᴛᴜɪ ᴄᴏɴꜱᴏʟᴇ ᴡɪᴛʜ ʟɪᴠᴇ ꜱʏꜱᴛᴇᴍ ꜱᴛᴀᴛꜱ ᴀɴᴅ ɪɴᴛᴇɢʀᴀᴛᴇᴅ ᴛᴏᴏʟꜱ.
+
+ɪɴᴛᴇʀꜰᴀᴄᴇ ʟᴀʏᴏᴜᴛ:
+
+· ʜᴇᴀᴅᴇʀ – ʟᴏɢᴏ, ᴠᴇʀꜱɪᴏɴ, ᴛɪᴍᴇ
+· ꜱᴛᴀᴛꜱ ʙᴀʀ – ᴄᴘᴜ | ʀᴀᴍ | ʙᴀᴛᴛᴇʀʏ (ʟɪᴠᴇ)
+· ᴍᴀɪɴ ᴍᴇɴᴜ – ɴᴜᴍʙᴇʀᴇᴅ ᴛᴏᴏʟ ʟɪꜱᴛ
+· ꜰᴏᴏᴛᴇʀ – ꜱʜᴏʀᴛᴄᴜᴛꜱ (Q=Qᴜɪᴛ, ʀ=ʀᴇꜰʀᴇꜱʜ)
+
+ᴛᴏᴏʟꜱ ɪɴᴄʟᴜᴅᴇᴅ:
+
+1. ᴛᴇʀᴍɪɴᴀʟ ꜱʜᴇʟʟ
+2. ɴᴍᴀᴘ ꜱᴄᴀɴɴᴇʀ
+3. ᴀɪ ᴄʜᴀᴛ (ᴏʟʟᴀᴍᴀ)
+4. ꜱʏꜱᴛᴇᴍ ᴜᴘᴅᴀᴛᴇ
+5. ᴘʀᴏᴄᴇꜱꜱ ᴠɪᴇᴡᴇʀ
+6. ᴡɪ‑ꜰɪ / ɴᴇᴛᴡᴏʀᴋ ɪɴꜰᴏ
+7. ᴄᴜꜱᴛᴏᴍ ꜱᴄʀɪᴘᴛꜱ
+8. ᴇxɪᴛ
+
+ᴄʟᴇᴀɴ, ꜰᴀꜱᴛ, ᴀɴᴅ ᴋᴇʏʙᴏᴀʀᴅ‑ᴅʀɪᴠᴇɴ – ᴄᴏᴍɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴛᴇʀᴍᴜx ꜱᴏᴏɴ.
+
+
+
+
 
 ---
 
