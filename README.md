@@ -534,6 +534,8 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 
 ---
 
+---
+
 ## 👻 FROM THE SHADOWS – THE FINAL WORD
 
 <p align="center">
@@ -542,10 +544,6 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 
 <p align="center">
   <b>🔒 Trusted Source • Unpaid Opinions • 𝕏-616 🔒</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1,2,0,1&height=80&section=footer"/>
 </p>
 
 ## 💬 Want to Reach Me?
@@ -564,7 +562,7 @@ All recommendations here are rated **⭐⭐⭐⭐⭐** — I only review what I 
 
 <!-- LAST UPDATED BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Last_Updated-Aug_10_2026-00FF41?style=for-the-badge&logo=calendar"/>
+  <img src="https://img.shields.io/badge/Last_Updated-Aug_10_2026-006400?style=for-the-badge&logo=calendar&logoColor=white"/>
 </p>
 
 ---
