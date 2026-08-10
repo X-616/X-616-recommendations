@@ -2,7 +2,8 @@
 🄿🄷🄴🄽🄾🄼🄴🄽🄾🄽 ***⚚ ⚚ ⚚***
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0a1a0a,0d2b0d,0a1a0a&height=150&section=header&text=📰+X-616+MAGAZINE&fontSize=35&fontColor=00FF41&fontAlign=50&fontAlignY=50&desc=ISSUE+%2308+•+AUGUST+2026&descSize=15&descColor=FFD700&descAlign=50&descAlignY=75&animation=twin
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,0,1&height=150&section=header&text=📰+X-616+MAGAZINE&fontSize=35&fontColor=00FF41&fontAlign=50&fontAlignY=50&desc=ISSUE+%2308+•+AUGUST+2026&descSize=15&descColor=FFD700&descAlign=50&descAlignY=75&animation=twinkling&stroke=00FF41&strokeWidth=2"/>
+</p>
 
 
 <p align="center">
