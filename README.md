@@ -528,3 +528,10 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=X-616-recommends&label=RECOMMENDATIONS+ACCESSED&color=00FF41&style=flat" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1,2,0,1&height=80&section=footer"/>
+</p>
+
