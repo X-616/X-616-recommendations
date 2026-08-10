@@ -523,6 +523,11 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
   <b>🔒 Trusted Source • Unpaid Opinions • 𝕏-616 🔒</b>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1,2,0,1&height=80&section=footer"/>
+</p>
+
+
 ---
 
 <p align="center">
@@ -531,7 +536,4 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1,2,0,1&height=80&section=footer"/>
-</p>
 
