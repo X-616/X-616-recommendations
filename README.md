@@ -548,17 +548,6 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1,2,0,1&height=80&section=footer"/>
 </p>
 
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=X-616-recommends&label=RECOMMENDATIONS+ACCESSED&color=00FF41&style=flat" />
-</p>
-
----
-
-
-
 ## 💬 Want to Reach Me?
 
 All recommendations here are rated **⭐⭐⭐⭐⭐** — I only review what I truly stand behind.
