@@ -2,6 +2,11 @@
 🄿🄷🄴🄽🄾🄼🄴🄽🄾🄽 ***⚚ ⚚ ⚚***
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,4,2,4,6&height=150&section=header&text=📰+X-616+MAGAZINE&fontSize=35&fontColor=00FF41&fontAlign=50&fontAlignY=50&desc=ISSUE+%2308+•+AUGUST+2026&descSize=15&descColor=FFD700&descAlign=50&descAlignY=75&animation=twinkling&stroke=00FF41&strokeWidth=2"/>
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=1000&lines=%E2%9A%A0%EF%B8%8F+RECOMMENDATIONS+DIRECTORY+%E2%9A%A0%EF%B8%8F;NO+AFFILIATE+FEES+%E2%80%A2+ZERO+COMMISSIONS;PURE+CONSUMER+HONESTY+%E2%9D%A4%EF%B8%8F" />
 </p>
 
