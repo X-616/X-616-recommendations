@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
   <br>
-  <small> 😎 X-616 says: "Let's get Real..."</small>
+  <small>😎 X-616 says: "Let's get Real..."</small>
 </div>
 <!-- ⬆️ DEADPOOL OPENING ⬆️ -->
 
@@ -17,11 +17,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=1000&lines=%E2%9A%A0%EF%B8%8F+RECOMMENDATIONS+DIRECTORY+%E2%9A%A0%EF%B8%8F;NO+AFFILIATE+FEES+%E2%80%A2+ZERO+COMMISSIONS;PURE+CONSUMER+HONESTY+%E2%9D%A4%EF%B8%8F" />
 </p>
 
-<p align="center">
-  <b>Curated Selections • No Mediation Fees • 100% Personal</b>
-</p>
+<p align="center"><b>Curated Selections • No Mediation Fees • 100% Personal</b></p>
 
 ---
+
+## 🗞️ Masthead
+
+| | |
+|---|---|
+| **Publisher / Editor-in-Chief** | 𝕏-616 |
+| **Issue** | №08 — August 2026 |
+| **Rating Policy** | Every entry in this issue: ⭐⭐⭐⭐⭐ — nothing runs here unless I stand behind it |
+| **Sponsorship Policy** | None. Zero. Ever. Not one paid placement in this magazine. |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Category-Movies-red?style=for-the-badge&logo=imdb"/>
@@ -34,32 +41,36 @@
 </p>
 
 ---
-  
-**My Personal Picks – No corporate sponsors, no hidden agendas.**         
-           ***𓂀🅧-❻ ❶ ❻𓂀***
+
+## ✉️ Editor's Note
+
+**My Personal Picks – No corporate sponsors, no hidden agendas.**
+***𓂀🅧-❻ ❶ ❻𓂀***
 
 > 💬 *"If you're looking for recommendations without mediation fees – you've found the right place. I don't get paid by any company to promote these. Just pure, honest opinions."*
-
----
-
-<hr>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/X-616/X-616-recommendations/main/Screenshot_2026-08-08-23-26-03-074_me.proton.android.lumo-edit.jpg" alt="X-616 - THE SOURCE" width="70%" />
 </p>
 
-<hr>
-
-## 🧭 Quick Navigation
-[🎬 Movies](#-1-movies) • [📺 TV Series](#-2-tv-series) • [🥤 Soft Drinks](#-3-soft-drinks) • [📱 Mobile Devices](#-4-mobile-devices) • [📱 Apps](#-5-apps--recommended) • [🎮 Games](#-6-games-sony--xbox--pc)
-
 ---
 
-## 🎬 1. MOVIES
+## 🗂️ In This Issue
+
+| Department | Section |
+|---|---|
+| 🎬 | [Screen Time — Movies & Series](#screen-time) |
+| 🎮 | [Game Zone — PS5 · Xbox · PC](#game-zone) |
+| 📱 | [Tech Lab — Devices & Apps](#tech-lab) |
+| 🥤 | [The Bar — One True Drink](#the-bar) |
+| 🖥️ | [Sneak Peek — X1 Interface for Termux](#sneak-peek) |
+| 📬 | [Letters to the Editor](#letters) |
 
 ---
+<a name="screen-time"></a>
+## 🎬 DEPARTMENT: SCREEN TIME — Movies & Series
 
-### 🎭 Comedies You Must Watch
+### 🎭 Column: Comedies You Must Watch
 
 <details>
 <summary><b>🍃 1. Cheech & Chong – The Ultimate Stoner Classic</b></summary>
@@ -106,9 +117,7 @@ A hilarious 90s comedy starring Chris Farley as a clumsy, orphaned ninja who tra
 A sharp, fast-paced British crime comedy with a star-studded cast (Brad Pitt, Jason Statham). Intertwining stories of diamond heists, bare-knuckle boxing, and colorful gangsters. Witty dialogue, unexpected twists, and an iconic style that defined the genre.
 </details>
 
----
-
-### ⚔️ Action, Sci-Fi, Superhero & Fantasy
+### ⚔️ Column: Action, Sci-Fi, Superhero & Fantasy
 
 <details>
 <summary><b>🧛 1. Dracula Untold – The Prequel We Deserved</b></summary>
@@ -190,13 +199,7 @@ Ryan Reynolds voices a wise-cracking, caffeine-loving Pikachu in this live-actio
 Peter Jackson's masterpiece – an epic, breathtaking adaptation of J.R.R. Tolkien's classic. Follow Frodo and the Fellowship on their quest to destroy the One Ring. Visually stunning, emotionally powerful, and filled with unforgettable characters. The extended editions are highly recommended.
 </details>
 
----
-
-## 📺 2. TV SERIES
-
----
-
-### 🤣 Animated Comedies
+### 🤣 Column: Animated Comedies
 
 <details>
 <summary><b>🧪 1. Rick and Morty – Chaos Across the Multiverse</b></summary>
@@ -234,9 +237,7 @@ A brilliantly subtle animated comedy about the everyday life of Hank Hill, a pro
 Created by Bill Burr – a brutally honest, raunchy animated comedy set in the 1970s. Follows the Murphy family as they navigate life, work, and typical suburban chaos. Loud, emotional, and incredibly funny.
 </details>
 
----
-
-### 🎭 Live-Action Comedies & Dramedies
+### 🎭 Column: Live-Action Comedies & Dramedies
 
 <details>
 <summary><b>✝️ 1. The Righteous Gemstones – Darkly Hilarious</b></summary>
@@ -268,9 +269,7 @@ A sweet, hilarious comedy about Earl Hickey, a small-time crook who wins the lot
 A legendary Canadian mockumentary following the misadventures of Ricky, Julian, and Bubbles – three ex-convicts living in a trailer park. Crude, absurd, and endlessly quotable. A cult classic with a massive following and multiple spin-offs.
 </details>
 
----
-
-### 🧛 Anime & Fantasy Animated Series
+### 🧛 Column: Anime & Fantasy Animated Series
 
 <details>
 <summary><b>🦇 1. Castlevania (2021) – Gothic Masterpiece</b></summary>
@@ -297,119 +296,8 @@ A unique, atmospheric anime set in Manila, following Alexandra Trese, a detectiv
 </details>
 
 ---
-
-## 🥤 3. SOFT DRINKS
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=400&lines=THE+ONE+AND+ONLY+RECOMMENDATION" />
-</p>
-
-<details>
-<summary><b>🥤 1. Dr Pepper – The Perfect Balance</b></summary>
-<br>
-The one and only. A unique blend of 23 flavors that sits perfectly between cola and fruit soda. Crisp, refreshing, and infinitely superior to the competition. If you know, you know.
-</details>
-
----
-
-## 📱 4. MOBILE DEVICES
-
-> *Curated for developers working with Termux, Linux, and coding tools – Updated 2026*
-
----
-
-### 🐧 Category 1: Pure Linux / Open-Source Devices
-
-<details>
-<summary><b>📱 NexPhone (Expected Q3 2026)</b></summary>
-<br>
-A unique device that runs 3 operating systems: Android, Linux, and Windows 11 (triple-boot).
-
-<b>Specs:</b> 12GB RAM, 256GB internal storage + microSD expansion, 120Hz display, 5000mAh battery.
-</details>
-
-<details>
-<summary><b>📱 PinePhone Pro – Pure Linux Experience</b></summary>
-<br>
-A pure Linux device (runs Manjaro or postmarketOS). Gives you full hardware control, but battery drains relatively fast (3-4W power draw) and tends to heat up.
-
-> ⚠️ <b>For advanced Linux users only. Not recommended for beginners!</b>
-</details>
-
-<details>
-<summary><b>📱 Google Pixel (Pro Series) – The Developer's Choice</b></summary>
-<br>
-The perfect choice for developers. Runs full Linux via Termux or can be flashed with GrapheneOS.
-
-The latest model (Pixel 10 Pro) comes with 16GB RAM and 128GB storage with an excellent display.
-</details>
-
-<details>
-<summary><b>📱 Galaxy Z Flip 7 – Compact & Capable</b></summary>
-<br>
-The first non-Pixel device to support Linux Terminal out of the box. Ideal for developers who love compact portability and unique design.
-</details>
-
----
-
-### 🔋 Category 2: Battery Monsters & Massive Storage
-
-<details>
-<summary><b>⚡ Honor X70 Pro Max – The Battery King</b></summary>
-<br>
-<b>The battery king</b> – 8560mAh with 90W fast charging, ultra-bright display (6000 nits), and IP69K dust/water resistance.
-</details>
-
-<details>
-<summary><b>⚡ Redmi 15C – Best Value</b></summary>
-<br>
-Excellent value: up to 8GB RAM, 256GB storage, and a 6000mAh battery.
-</details>
-
-<details>
-<summary><b>⚡ Nothing Phone (4b) – AI-Powered</b></summary>
-<br>
-6000mAh, AMOLED 120Hz display, with built-in AI capabilities for performance optimization.
-</details>
-
----
-
-### 💰 Category 3: POCO / Xiaomi – Budget Performance
-
-<details>
-<summary><b>📱 Poco X7 Pro – Proven Workhorse</b></summary>
-<br>
-<b>Battle-tested with Termux.</b> Can run LLM models via llama.cpp. Massive battery, high performance at a low price.
-
-> 💡 <b>Pro tip:</b> I successfully run Termux + additional tools, coding, and editing on this device. Monster battery – just disable battery optimization and you're good to go. <b>Minimum money, maximum performance.</b>
-</details>
-
-<details>
-<summary><b>📱 Poco F7 Pro – Flagship Killer</b></summary>
-<br>
-Snapdragon 8 Gen 3, 6000mAh battery with 90W fast charging.
-</details>
-
----
-
-### 💡 Quick Selection Guide
-
-| Parameter | Recommendation |
-|-----------|----------------|
-| **RAM** | Don't go below 4GB, but 6GB+ is highly recommended |
-| **Termux** | Works on most Android devices from version 7 and up – no root required |
-| **Storage** | Ensure at least 5-10GB free for Termux packages and tools |
-| **Warning** | PinePhone devices (pure Linux) are not recommended for beginners – require technical knowledge |
-
----
-
-## 📱 5. APPS – RECOMMENDED
-
-> Check out my GitHub Stars – there are **467 saved apps** recommended for creators, plus a full collection of **1,204 tools**, apps, software, and more. Take a look in your free time.
-
----
-
-## 🎮 6. GAMES (Sony • Xbox • PC)
+<a name="game-zone"></a>
+## 🎮 DEPARTMENT: GAME ZONE — PS5 · Xbox · PC
 
 > *Curated for PS5, Xbox Series, and PC – all tested personally.*
 
@@ -481,18 +369,109 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 </details>
 
 ---
+<a name="tech-lab"></a>
+## 📱 DEPARTMENT: TECH LAB — Devices & Apps
 
-## 🗂️ UPDATE LOG & FUTURE PLANS
+> *Curated for developers working with Termux, Linux, and coding tools – Updated 2026*
 
-▌│█║▌║▌║ This repository is **actively maintained** and shared alongside my main CV profile. ║▌║▌║█│▌
+### 🐧 Column: Pure Linux / Open-Source Devices
 
-- ✅ **Current Version:** 2026 Refresh (All entries in English)
-- 🔄 **Update Frequency:** Rolling – new discoveries added continuously
-- 📌 **Coming Soon:** Horror movie section • Indie game highlights • Retro classics • More app recommendations.
+<details>
+<summary><b>📱 NexPhone (Expected Q3 2026)</b></summary>
+<br>
+A unique device that runs 3 operating systems: Android, Linux, and Windows 11 (triple-boot).
+
+<b>Specs:</b> 12GB RAM, 256GB internal storage + microSD expansion, 120Hz display, 5000mAh battery.
+</details>
+
+<details>
+<summary><b>📱 PinePhone Pro – Pure Linux Experience</b></summary>
+<br>
+A pure Linux device (runs Manjaro or postmarketOS). Gives you full hardware control, but battery drains relatively fast (3-4W power draw) and tends to heat up.
+
+> ⚠️ <b>For advanced Linux users only. Not recommended for beginners!</b>
+</details>
+
+<details>
+<summary><b>📱 Google Pixel (Pro Series) – The Developer's Choice</b></summary>
+<br>
+The perfect choice for developers. Runs full Linux via Termux or can be flashed with GrapheneOS.
+
+The latest model (Pixel 10 Pro) comes with 16GB RAM and 128GB storage with an excellent display.
+</details>
+
+<details>
+<summary><b>📱 Galaxy Z Flip 7 – Compact & Capable</b></summary>
+<br>
+The first non-Pixel device to support Linux Terminal out of the box. Ideal for developers who love compact portability and unique design.
+</details>
+
+### 🔋 Column: Battery Monsters & Massive Storage
+
+<details>
+<summary><b>⚡ Honor X70 Pro Max – The Battery King</b></summary>
+<br>
+<b>The battery king</b> – 8560mAh with 90W fast charging, ultra-bright display (6000 nits), and IP69K dust/water resistance.
+</details>
+
+<details>
+<summary><b>⚡ Redmi 15C – Best Value</b></summary>
+<br>
+Excellent value: up to 8GB RAM, 256GB storage, and a 6000mAh battery.
+</details>
+
+<details>
+<summary><b>⚡ Nothing Phone (4b) – AI-Powered</b></summary>
+<br>
+6000mAh, AMOLED 120Hz display, with built-in AI capabilities for performance optimization.
+</details>
+
+### 💰 Column: POCO / Xiaomi – Budget Performance
+
+<details>
+<summary><b>📱 Poco X7 Pro – Proven Workhorse</b></summary>
+<br>
+<b>Battle-tested with Termux.</b> Can run LLM models via llama.cpp. Massive battery, high performance at a low price.
+
+> 💡 <b>Pro tip:</b> I successfully run Termux + additional tools, coding, and editing on this device. Monster battery – just disable battery optimization and you're good to go. <b>Minimum money, maximum performance.</b>
+</details>
+
+<details>
+<summary><b>📱 Poco F7 Pro – Flagship Killer</b></summary>
+<br>
+Snapdragon 8 Gen 3, 6000mAh battery with 90W fast charging.
+</details>
+
+### 💡 Buyer's Guide
+
+| Parameter | Recommendation |
+|-----------|----------------|
+| **RAM** | Don't go below 4GB, but 6GB+ is highly recommended |
+| **Termux** | Works on most Android devices from version 7 and up – no root required |
+| **Storage** | Ensure at least 5-10GB free for Termux packages and tools |
+| **Warning** | PinePhone devices (pure Linux) are not recommended for beginners – require technical knowledge |
+
+### 📲 Column: Apps
+
+> Check out my GitHub Stars – there are **467 saved apps** recommended for creators, plus a full collection of **1,204 tools**, apps, software, and more. Take a look in your free time.
 
 ---
+<a name="the-bar"></a>
+## 🥤 DEPARTMENT: THE BAR — One True Drink
 
-## 📅 COMING SOON – X1 INTERFACE FOR TERMUX
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=400&lines=THE+ONE+AND+ONLY+RECOMMENDATION" />
+</p>
+
+<details>
+<summary><b>🥤 1. Dr Pepper – The Perfect Balance</b></summary>
+<br>
+The one and only. A unique blend of 23 flavors that sits perfectly between cola and fruit soda. Crisp, refreshing, and infinitely superior to the competition. If you know, you know.
+</details>
+
+---
+<a name="sneak-peek"></a>
+## 🖥️ SNEAK PEEK — X1 Interface for Termux
 
 <div align="center">
 
@@ -500,9 +479,7 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 
 </div>
 
----
-
-### 🖥️ Interface Layout
+**🖥️ Interface Layout**
 
 | Section | Components |
 |---------|------------|
@@ -511,9 +488,7 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 | **Main Menu** | Numbered Tool List |
 | **Footer** | Shortcuts (Q=Quit • R=Refresh) |
 
----
-
-### 🛠️ Tools Included
+**🛠️ Tools Included**
 
 | # | Tool | Description |
 |---|------|-------------|
@@ -526,8 +501,6 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 | 7️⃣ | Custom Scripts | User-defined automation |
 | 8️⃣ | Exit | Clean shutdown |
 
----
-
 <div align="center">
 
 **🚀 Clean, Fast, and Keyboard-Driven**
@@ -538,12 +511,17 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 
 ---
 
+## 🗂️ Update Log & Future Plans
+
+▌│█║▌║▌║ This repository is **actively maintained** and shared alongside my main CV profile. ║▌║▌║█│▌
+
+- ✅ **Current Version:** 2026 Refresh (All entries in English)
+- 🔄 **Update Frequency:** Rolling – new discoveries added continuously
+- 📌 **Coming Soon:** Horror movie section • Indie game highlights • Retro classics • More app recommendations
 
 ---
-
----
-
-## 👻 FROM THE SHADOWS – THE FINAL WORD
+<a name="letters"></a>
+## 👻 From the Shadows – The Final Word
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=850&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=NO+COMMISSIONS.+NO+BIAS.+JUST+TRUTH.;RECOMMENDED+BY+%E2%84%96-616" />
@@ -553,7 +531,7 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
   <b>🔒 Trusted Source • Unpaid Opinions • 𝕏-616 🔒</b>
 </p>
 
-## 💬 Want to Reach Me?
+## 📬 Letters to the Editor
 
 All recommendations here are rated **⭐⭐⭐⭐⭐** — I only review what I truly stand behind.
 
@@ -571,8 +549,6 @@ All recommendations here are rated **⭐⭐⭐⭐⭐** — I only review what I 
 <p align="center">
   <img src="https://img.shields.io/badge/Last_Updated-Aug_10_2026-006400?style=for-the-badge&logo=calendar&logoColor=white"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=X-616-recommends&label=RECOMMENDATIONS+ACCESSED&color=00FF41&style=flat" />
