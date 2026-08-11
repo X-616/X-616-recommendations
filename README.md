@@ -69,6 +69,7 @@
 ---
 <a name="screen-time"></a>
 ## 🎬 DEPARTMENT: SCREEN TIME — Movies & Series
+<img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="friendly robot offering help"/>
 
 ### 🎭 Column: Comedies You Must Watch
 
@@ -298,6 +299,7 @@ A unique, atmospheric anime set in Manila, following Alexandra Trese, a detectiv
 ---
 <a name="game-zone"></a>
 ## 🎮 DEPARTMENT: GAME ZONE — PS5 · Xbox · PC
+<img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman"/>
 
 > *Curated for PS5, Xbox Series, and PC – all tested personally.*
 
@@ -458,6 +460,7 @@ Snapdragon 8 Gen 3, 6000mAh battery with 90W fast charging.
 ---
 <a name="the-bar"></a>
 ## 🥤 DEPARTMENT: THE BAR — One True Drink
+<img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="funny hacker with glasses"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=400&lines=THE+ONE+AND+ONLY+RECOMMENDATION" />
