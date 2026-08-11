@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
   <br>
-  <small>***😎 X-616 says: "Let's get Real***..."</small>
+  <small> 😎 X-616 says: "Let's get Real..."</small>
 </div>
 <!-- ⬆️ DEADPOOL OPENING ⬆️ -->
 
