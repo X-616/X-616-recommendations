@@ -63,15 +63,17 @@
 | 🎮 | [Game Zone — PS5 · Xbox · PC](#game-zone) |
 | 📱 | [Tech Lab — Devices & Apps](#tech-lab) |
 | 🥤 | [The Bar — One True Drink](#the-bar) |
-| 🖥️ | [Sneak Peek — X1 Interface for Termux](#sneak-peek) |
+| 🖥️ | [Sneak Peek — X-1 Interface for Termux](#sneak-peek) |
 | 📬 | [Letters to the Editor](#letters) |
 
 ---
+
 <a name="screen-time"></a>
 ## 🎬 DEPARTMENT: SCREEN TIME — Movies & Series
 <img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="friendly robot offering help"/>
 
 ### 🎭 Column: Comedies You Must Watch
+> 🎨 **Color Code:** 🔴 **Comedy** — Red tones
 
 <details>
 <summary><b>🍃 1. Cheech & Chong – The Ultimate Stoner Classic</b></summary>
@@ -118,7 +120,10 @@ A hilarious 90s comedy starring Chris Farley as a clumsy, orphaned ninja who tra
 A sharp, fast-paced British crime comedy with a star-studded cast (Brad Pitt, Jason Statham). Intertwining stories of diamond heists, bare-knuckle boxing, and colorful gangsters. Witty dialogue, unexpected twists, and an iconic style that defined the genre.
 </details>
 
+---
+
 ### ⚔️ Column: Action, Sci-Fi, Superhero & Fantasy
+> 🎨 **Color Code:** 🟣 **Action/Sci-Fi** — Purple tones
 
 <details>
 <summary><b>🧛 1. Dracula Untold – The Prequel We Deserved</b></summary>
@@ -200,7 +205,31 @@ Ryan Reynolds voices a wise-cracking, caffeine-loving Pikachu in this live-actio
 Peter Jackson's masterpiece – an epic, breathtaking adaptation of J.R.R. Tolkien's classic. Follow Frodo and the Fellowship on their quest to destroy the One Ring. Visually stunning, emotionally powerful, and filled with unforgettable characters. The extended editions are highly recommended.
 </details>
 
+<details>
+<summary><b>🏴‍☠️ 14. Pirates of the Caribbean – The Complete Saga</b></summary>
+<br>
+The legendary pirate saga starring Johnny Depp as the unforgettable Captain Jack Sparrow. Cursed treasure, supernatural sea monsters, immortal pirate lords, and epic naval battles across the seven seas – the full mythology across all five films is essential adventure viewing.
+
+<b>The complete saga:</b>
+<ul>
+  <li><i>The Curse of the Black Pearl</i> (2003)</li>
+  <li><i>Dead Man's Chest</i> (2006)</li>
+  <li><i>At World's End</i> (2007)</li>
+  <li><i>On Stranger Tides</i> (2011)</li>
+  <li><i>Dead Men Tell No Tales</i> (2017)</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🔥 15. Spawn – Dark Anti-Hero Classic</b></summary>
+<br>
+Al Simmons, an elite assassin, is murdered on the orders of his own boss. His boss then strikes a deal with the devil to bring Al back as Spawn – a warrior of Hell. Spawn returns to Earth and discovers he now wields supernatural powers, and must choose between the forces of good and the forces of evil. A dark, brutal, and visually striking take on the superhero genre.
+</details>
+
+---
+
 ### 🤣 Column: Animated Comedies
+> 🎨 **Color Code:** 🟡 **Animated** — Yellow tones
 
 <details>
 <summary><b>🧪 1. Rick and Morty – Chaos Across the Multiverse</b></summary>
@@ -238,7 +267,10 @@ A brilliantly subtle animated comedy about the everyday life of Hank Hill, a pro
 Created by Bill Burr – a brutally honest, raunchy animated comedy set in the 1970s. Follows the Murphy family as they navigate life, work, and typical suburban chaos. Loud, emotional, and incredibly funny.
 </details>
 
+---
+
 ### 🎭 Column: Live-Action Comedies & Dramedies
+> 🎨 **Color Code:** 🟠 **Live-Action** — Orange tones
 
 <details>
 <summary><b>✝️ 1. The Righteous Gemstones – Darkly Hilarious</b></summary>
@@ -270,7 +302,10 @@ A sweet, hilarious comedy about Earl Hickey, a small-time crook who wins the lot
 A legendary Canadian mockumentary following the misadventures of Ricky, Julian, and Bubbles – three ex-convicts living in a trailer park. Crude, absurd, and endlessly quotable. A cult classic with a massive following and multiple spin-offs.
 </details>
 
+---
+
 ### 🧛 Column: Anime & Fantasy Animated Series
+> 🎨 **Color Code:** 🔵 **Anime** — Blue tones
 
 <details>
 <summary><b>🦇 1. Castlevania (2021) – Gothic Masterpiece</b></summary>
@@ -297,11 +332,13 @@ A unique, atmospheric anime set in Manila, following Alexandra Trese, a detectiv
 </details>
 
 ---
+
 <a name="game-zone"></a>
 ## 🎮 DEPARTMENT: GAME ZONE — PS5 · Xbox · PC
 <img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="pacman"/>
 
 > *Curated for PS5, Xbox Series, and PC – all tested personally.*
+> 🎨 **Color Code:** 🟢 **Gaming** — Green tones
 
 <details>
 <summary><b>⚔️ 1. God of War – The Complete Saga</b></summary>
@@ -371,10 +408,12 @@ Fast-paced action-adventure that feels exactly like a Hollywood movie. A perfect
 </details>
 
 ---
+
 <a name="tech-lab"></a>
 ## 📱 DEPARTMENT: TECH LAB — Devices & Apps
 
 > *Curated for developers working with Termux, Linux, and coding tools – Updated 2026*
+> 🎨 **Color Code:** 🔵 **Tech** — Blue tones
 
 ### 🐧 Column: Pure Linux / Open-Source Devices
 
@@ -455,16 +494,18 @@ Snapdragon 8 Gen 3, 6000mAh battery with 90W fast charging.
 
 ### 📲 Column: Apps
 
-> Check out my GitHub Stars – there are **467 saved apps** recommended for creators, plus a full collection of **1,204 tools**, apps, software, and more. Take a look in your free time.
+> Check out my GitHub Stars – there are **1,252 saved apps** recommended for creators, plus a full collection of **486 tools**, apps, software, and more. Take a look in your free time.
 
 ---
+
 <a name="the-bar"></a>
 ## 🥤 DEPARTMENT: THE BAR — One True Drink
-<img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="funny hacker with glasses"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF4500&center=true&vCenter=true&width=400&lines=THE+ONE+AND+ONLY+RECOMMENDATION" />
 </p>
+
+> 🎨 **Color Code:** 🟣 **Drinks** — Purple tones
 
 <details>
 <summary><b>🥤 1. Dr Pepper – The Perfect Balance</b></summary>
@@ -473,14 +514,18 @@ The one and only. A unique blend of 23 flavors that sits perfectly between cola 
 </details>
 
 ---
+
 <a name="sneak-peek"></a>
-## 🖥️ SNEAK PEEK — X1 Interface for Termux
+## 🖥️ SNEAK PEEK — X-1 Interface for Termux
+<img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="funny hacker with glasses"/>
 
 <div align="center">
 
 ### A Sleek TUI Console with Live System Stats & Integrated Tools
 
 </div>
+
+> 🎨 **Color Code:** 🟢 **Interface** — Green tones
 
 **🖥️ Interface Layout**
 
@@ -523,6 +568,7 @@ The one and only. A unique blend of 23 flavors that sits perfectly between cola 
 - 📌 **Coming Soon:** Horror movie section • Indie game highlights • Retro classics • More app recommendations
 
 ---
+
 <a name="letters"></a>
 ## 👻 From the Shadows – The Final Word
 
@@ -550,7 +596,7 @@ All recommendations here are rated **⭐⭐⭐⭐⭐** — I only review what I 
 
 <!-- LAST UPDATED BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Last_Updated-Aug_10_2026-006400?style=for-the-badge&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Last_Updated-Aug_14_2026-006400?style=for-the-badge&logo=calendar&logoColor=white"/>
 </p>
 
 <p align="center">
