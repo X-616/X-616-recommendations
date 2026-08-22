@@ -494,7 +494,7 @@ Snapdragon 8 Gen 3, 6000mAh battery with 90W fast charging.
 
 ### 📲 Column: Apps
 
-> Check out my GitHub Stars – there are **1,252 saved apps** recommended for creators, plus a full collection of **486 tools**, apps, software, and more. Take a look in your free time.
+> Check out my GitHub Stars – there are **1,252 saved Stars** recommended for creators, plus a full collection of **tools, apps, software, and more. Take a look in your free time**.
 
 ---
 
